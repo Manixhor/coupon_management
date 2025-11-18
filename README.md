@@ -2,7 +2,7 @@
 
 E-commerce coupon management system built with FastAPI. Create coupons with complex eligibility rules and automatically find the best discount for users.
 
-## ⚡ Quick Start
+## Quick Start
 
 ```bash
 # Setup
