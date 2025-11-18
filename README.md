@@ -184,7 +184,7 @@ Content-Type: application/json
 }
 ```
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 coupon-system/
